@@ -4,64 +4,76 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=32&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student+in+Japan+🇯🇵;Aspiring+Full-Stack+Developer;Java+Backend+Developer;Creative+UI%2FUX+Designer;Building+Real+Software+Projects+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student+in+Japan+🇯🇵;Aspiring+Full+Stack+Developer;Java+Backend+Developer;Creative+UI%2FUX+Designer;Building+Real+Software+Projects+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>💙 Full Stack Development | Java Backend | UI/UX Design | Japan 🇯🇵</h3>
+  <h3>
+    💙 Full Stack Development | Java Backend | UI/UX Design | Japan 🇯🇵
+  </h3>
 
-  <p>
-    I am a Software Engineering student at <b>Tokyo Technical College</b>, currently learning and building my path as a professional developer in Japan.
-    My main focus is <b>Full Stack Development</b>, <b>Java Backend Engineering</b>, and <b>UI/UX Design</b>.
-    I enjoy turning ideas into real software, improving every day, and building projects that solve real problems.
+  <p width="80%">
+    I am a <b>Software Engineering student</b> at
+    <b>Tokyo Technical College, Japan 🇯🇵</b>.
+    <br>
+    I focus on <b>Full Stack Development</b>,
+    <b>Java Backend Engineering</b>, and
+    <b>UI/UX Design</b>.
+    <br>
+    I enjoy turning ideas into real software, learning every day,
+    and building projects that solve real problems 🚀
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
+
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
+
 </div>
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750650-274038c5-9086-48b5-92a4-0626cfd3cdb.gif" width="100%">
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> About Me
+# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30"> About Me
 
-<img align="right" height="270px" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="260px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 Currently studying at **Tokyo Technical College, Japan 🇯🇵**
 
-- 👨‍💻 Working on:  
-  **Improving Full Stack Development skills**
+- 👨‍💻 **Working on:**  
+  Improving **Full Stack Development** skills
 
-- ☕ Main focus:  
+- ☕ **Main focus:**  
   **Java Backend Development**
 
-- 🎨 Passionate about:  
-  **UI/UX Design and clean user experiences**
+- 🎨 **Passionate about:**  
+  **UI/UX Design** and clean user experiences
 
-- 🌱 Currently learning:  
+- 🌱 **Currently learning:**  
   **Java, HTML, CSS, JavaScript, React, MySQL, Spring Boot**
 
-- 🤝 Open to collaborate on:  
+- 🤝 **Open to collaborate on:**  
   **Full Stack Projects, Java Projects, UI/UX Projects**
 
-- 🎯 Goal:  
-  **Become a professional Software Engineer in Japan**
+- 🎯 **Goal:**  
+  Become a **Professional Software Engineer in Japan**
 
-- ⚡ Mindset:  
-  **Professional Engineer 👔 + Smart Student 📘 + Startup Founder 🚀 + Creative Builder 🎨**
+- ⚡ **Mindset:**  
+  👔 Professional Engineer  
+  📘 Smart Student  
+  🚀 Startup Founder  
+  🎨 Creative Builder
 
-<br>
+<br clear="right"/>
 
 ---
 
@@ -70,93 +82,34 @@
 ## 🖥️ Frontend
 
 <p align="left">
-  <a href="https://html.spec.whatwg.org">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-  </a>
-  <a href="https://reactjs.org">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  </a>
-  <a href="https://tailwindcss.com">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,bootstrap" />
 </p>
 
 ## ⚙️ Backend
 
 <p align="left">
-  <a href="https://www.java.com">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  </a>
-  <a href="https://spring.io/">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
 ## 🗃️ Databases
 
 <p align="left">
-  <a href="https://www.mysql.com">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  </a>
-  <a href="https://www.oracle.com/database/">
-    <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" />
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-  </a>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
 </p>
 
 ## 🛠️ Tools & Others
 
 <p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
-  </a>
-  <a href="https://www.figma.com">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  </a>
-  <a href="https://www.linux.org">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  </a>
-  <a href="https://postman.com">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-  </a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,docker,linux,postman" />
 </p>
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750650-274038c5-9086-48b5-92a4-0626cfd3cdb.gif" width="100%">
 
 # 🚀 Projects
 
-<img align="right" height="230px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" height="220px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 > Projects will be added soon.
 
@@ -166,43 +119,36 @@
 - 🇯🇵 Japan Student Life Projects  
 - 🚀 Startup / Business Ideas  
 
-<br>
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tt25304025-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt25304025-dev&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=algolia&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tt25304025-dev&theme=algolia&hide_border=true"/>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tt25304025-dev&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/tt25304025-dev">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-003B73?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+
+  <a href="mailto:thushantheekshana12345@gmail.com">
     <img src="https://img.shields.io/badge/Email-005F99?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -210,9 +156,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:00D4FF&section=footer"/>
 </div>
 
 <p align="center">
-  <b>Learning. Building. Improving. Becoming better every day. 🚀</b>
+  <b>Learning • Building • Improving • Becoming Better Every Day 🚀</b>
 </p>
