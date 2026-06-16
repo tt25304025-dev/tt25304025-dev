@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Thushan Theekshana</h1>
 
 <h3 align="center">
@@ -127,4 +126,4 @@
 <p align="center">
   <b>Learning. Building. Improving. Becoming better every day. 🚀</b>
 </p>
-```
+
