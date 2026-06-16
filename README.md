@@ -1,108 +1,194 @@
-<h1 align="center">Hi 👋, I'm Thushan Theekshana</h1>
+<h1 align="center">
+  Hi 👋, I'm Thushan Theekshana = ^_^
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h3 align="center">
-  Software Engineering Student in Japan 🇯🇵 | Aspiring Full Stack Developer
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=32&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student+in+Japan+🇯🇵;Aspiring+Full-Stack+Developer;Java+Backend+Developer;Creative+UI%2FUX+Designer;Building+Real+Software+Projects+🚀" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&size=28&center=true&vCenter=true&width=800&height=50&lines=Java+Backend+Developer;Full+Stack+Development+Learner;UI%2FUX+Focused+Builder;Tokyo+Technical+College+Student;Building+Real+Software+Projects" />
-</p>
+<div align="center">
+  <h3>💙 Full Stack Development | Java Backend | UI/UX Design | Japan 🇯🇵</h3>
 
----
+  <p>
+    I am a Software Engineering student at <b>Tokyo Technical College</b>, currently learning and building my path as a professional developer in Japan.
+    My main focus is <b>Full Stack Development</b>, <b>Java Backend Engineering</b>, and <b>UI/UX Design</b>.
+    I enjoy turning ideas into real software, improving every day, and building projects that solve real problems.
+  </p>
+</div>
 
-## 👨‍💻 About Me
+<br>
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🎓 Currently studying at **Tokyo Technical College, Japan**
-- 💻 Focused on **Full Stack Development**
-- ☕ Strong interest in **Java Backend Development**
-- 🎨 Passionate about **UI/UX Design**
-- 🇯🇵 Building software while studying in **Japan**
-- 🚀 Goal: Become a professional software engineer and build real-world products
-- 🧠 Always learning, improving, and turning ideas into software
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
+</div>
 
 <br>
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45"> About Me
 
-- Java Backend Development  
-- JSP / Servlet  
-- Spring Boot  
-- REST API Development  
-- MySQL / Oracle Database  
-- React Frontend Development  
-- UI/UX Design  
-- Real-world full stack projects  
+<img align="right" height="270px" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+- 🎓 Currently studying at **Tokyo Technical College, Japan 🇯🇵**
 
-## 🛠️ Tech Stack
+- 👨‍💻 Working on:  
+  **Improving Full Stack Development skills**
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+- ☕ Main focus:  
+  **Java Backend Development**
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+- 🎨 Passionate about:  
+  **UI/UX Design and clean user experiences**
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
+- 🌱 Currently learning:  
+  **Java, HTML, CSS, JavaScript, React, MySQL, Spring Boot**
 
-### 🗃️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
+- 🤝 Open to collaborate on:  
+  **Full Stack Projects, Java Projects, UI/UX Projects**
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
+- 🎯 Goal:  
+  **Become a professional Software Engineer in Japan**
+
+- ⚡ Mindset:  
+  **Professional Engineer 👔 + Smart Student 📘 + Startup Founder 🚀 + Creative Builder 🎨**
+
+<br>
 
 ---
 
-## 🚀 Projects
+# 💻 Tech Stack
+
+## 🖥️ Frontend
+
+<p align="left">
+  <a href="https://html.spec.whatwg.org">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  </a>
+  <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+</p>
+
+## ⚙️ Backend
+
+<p align="left">
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+</p>
+
+## 🗃️ Databases
+
+<p align="left">
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.oracle.com/database/">
+    <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" />
+  </a>
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  </a>
+</p>
+
+## 🛠️ Tools & Others
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+  </a>
+  <a href="https://www.figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://www.linux.org">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+  <a href="https://postman.com">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+</p>
+
+<br>
+
+---
+
+# 🚀 Projects
+
+<img align="right" height="230px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 > Projects will be added soon.
 
-- 💻 Full Stack Web Applications
-- ☕ Java Backend Projects
-- 🎨 UI/UX Design Projects
-- 🇯🇵 Japan-focused Student Projects
-- 🚀 Startup / Business Ideas
+- 💻 Full Stack Web Applications  
+- ☕ Java Backend Projects  
+- 🎨 UI/UX Design Projects  
+- 🇯🇵 Japan Student Life Projects  
+- 🚀 Startup / Business Ideas  
+
+<br>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=algolia&hide_border=true"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -123,7 +209,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=120&section=footer"/>
+</div>
+
 <p align="center">
   <b>Learning. Building. Improving. Becoming better every day. 🚀</b>
 </p>
-
