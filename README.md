@@ -93,8 +93,13 @@
 
 ## 🗃️ Databases
 
+
+## 🗃️ Databases
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle"/>
 </p>
 
 ## 🛠️ Tools & Others
